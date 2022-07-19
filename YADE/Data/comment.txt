@@ -1,0 +1,1 @@
+This folder will contain data related to plots and a ipynb file consisting codes on how to plot the data.
