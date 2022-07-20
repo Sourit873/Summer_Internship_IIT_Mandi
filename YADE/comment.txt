@@ -1,0 +1,1 @@
+This folder contains all the necessary files to run the YADE simulations and to plot the graphs.
